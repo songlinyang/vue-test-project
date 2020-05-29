@@ -1,0 +1,300 @@
+2020-05-24 10:53:57.405 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:00.977 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 10:54:01.783 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:06.784 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:06.794 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 10:54:19.965 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:21.101 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 10:54:22.717 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:23.937 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 10:54:25.389 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 10:54:26.912 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 10:54:39.432 | INFO     | logout:info:26 - 123
+2020-05-24 10:54:39.445 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 10:54:39.453 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 10:54:39.502 | INFO     | logout:info:26 - data{'name': '测试接口1', 'description': '接口', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 10:54:41.709 | INFO     | logout:info:26 - 123
+2020-05-24 10:54:41.725 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 10:54:41.732 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 10:54:41.740 | INFO     | logout:info:26 - data{'name': '测试接口1', 'description': '接口', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 10:55:03.671 | INFO     | logout:info:26 - 123
+2020-05-24 10:55:04.636 | INFO     | logout:info:26 - 123
+2020-05-24 10:55:05.046 | INFO     | logout:info:26 - 123
+2020-05-24 11:00:15.657 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 11:00:21.179 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 11:01:28.077 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 11:01:40.961 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 11:02:14.706 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:02:21.352 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:02:21.358 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:02:21.362 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:02:21.896 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:02:21.902 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:02:21.910 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:02:21.921 | INFO     | logout:info:26 - data{'name': '测试接口1', 'description': '接口', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:02:21.932 | INFO     | logout:info:26 - data{'name': '测试接口1', 'description': '接口', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:02:21.941 | INFO     | logout:info:26 - data{'name': '测试接口1', 'description': '接口', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:02:31.091 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 11:02:34.593 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:02:35.948 | INFO     | logout:info:26 - 获取到的服务ID4
+2020-05-24 11:02:37.549 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:02:38.741 | INFO     | logout:info:26 - 获取到的服务ID5
+2020-05-24 11:02:40.308 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:02:41.517 | INFO     | logout:info:26 - 获取到的服务ID6
+2020-05-24 11:02:42.798 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:02:43.820 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 11:03:13.560 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 11:03:17.313 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-24 11:05:01.577 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:03.555 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 11:05:05.042 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:07.685 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:08.642 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 11:05:09.959 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:12.228 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:12.910 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:14.633 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:15.391 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:17.232 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:17.920 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:18.748 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:19.419 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:20.517 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:20.901 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:21.748 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:22.485 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:23.477 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:24.373 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:25.164 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:33.208 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 11:05:34.631 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:05:51.198 | INFO     | logout:info:26 - 123
+2020-05-24 11:05:51.218 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:05:51.225 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:05:51.234 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:06:04.472 | INFO     | logout:info:26 - 123
+2020-05-24 11:06:04.492 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:06:04.499 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:06:04.507 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:10:36.479 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:11:08.047 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:11:16.952 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:11:35.007 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:11:38.370 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:11:46.977 | INFO     | logout:info:26 - 123
+2020-05-24 11:11:47.000 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-24 11:11:47.008 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:11:47.016 | INFO     | logout:info:26 - data{'name': '测试1·', 'description': 'desc', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:23:19.312 | INFO     | logout:info:26 - 123
+2020-05-24 11:23:19.319 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:23:19.328 | INFO     | logout:info:26 - data{'name': '测试1·', 'description': 'desc', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:23:21.715 | INFO     | logout:info:26 - 123
+2020-05-24 11:23:21.724 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:23:21.731 | INFO     | logout:info:26 - data{'name': '测试1·', 'description': 'desc', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:23:24.719 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:23:33.420 | INFO     | logout:info:26 - 123
+2020-05-24 11:23:33.431 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:23:33.440 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:25:46.271 | INFO     | logout:info:26 - 123
+2020-05-24 11:25:46.277 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:25:46.284 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:25:46.294 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:26:57.290 | INFO     | logout:info:26 - 123
+2020-05-24 11:26:57.301 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:26:57.309 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:26:57.325 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:28:17.217 | INFO     | logout:info:26 - 123
+2020-05-24 11:28:17.230 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:28:17.237 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:28:22.145 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:28:42.486 | INFO     | logout:info:26 - 123
+2020-05-24 11:28:42.490 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:28:42.495 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:28:43.084 | INFO     | logout:info:26 - 123
+2020-05-24 11:28:43.094 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:28:43.102 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:31:46.286 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:31:53.008 | INFO     | logout:info:26 - 123
+2020-05-24 11:31:53.015 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:31:53.022 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:31:53.031 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:33:28.736 | INFO     | logout:info:26 - 123
+2020-05-24 11:33:28.746 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:33:28.753 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:33:28.765 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:34:18.459 | INFO     | logout:info:26 - 123
+2020-05-24 11:34:29.758 | INFO     | logout:info:26 - 123
+2020-05-24 11:34:29.769 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:34:29.784 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:34:29.833 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:34:41.032 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:34:48.148 | INFO     | logout:info:26 - 123
+2020-05-24 11:34:48.169 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:34:48.180 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试i123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:34:48.203 | INFO     | logout:info:26 - <==新增接口，返回body:<JsonResponse status_code=200, "application/json">
+2020-05-24 11:40:35.882 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:40:35.899 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:40:41.758 | INFO     | logout:info:26 - 123
+2020-05-24 11:40:41.774 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:40:41.781 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:40:41.814 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:42:24.039 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:42:27.345 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:42:36.390 | INFO     | logout:info:26 - 123
+2020-05-24 11:42:38.882 | INFO     | logout:info:26 - 123
+2020-05-24 11:42:48.536 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:42:49.916 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:42:49.922 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:42:49.927 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:42:49.943 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:42:49.953 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:42:49.988 | INFO     | logout:info:26 - data{'name': '测试123', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:42:49.996 | INFO     | logout:info:26 - data{'name': '测试123', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:42:50.105 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:42:50.118 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:44:17.432 | INFO     | logout:info:26 - 123
+2020-05-24 11:44:17.438 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:44:17.445 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:45:17.348 | INFO     | logout:info:26 - 123
+2020-05-24 11:45:17.355 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:45:17.364 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:45:17.374 | INFO     | logout:info:26 - <==新增接口,form.is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:48:37.305 | INFO     | logout:info:26 - 123
+2020-05-24 11:52:28.018 | INFO     | logout:info:26 - 123
+2020-05-24 11:52:35.229 | INFO     | logout:info:26 - 123
+2020-05-24 11:52:35.247 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:52:35.262 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试1235', 'context': '{"url":"","method":"GET","payload":"","assert":""}'},类型为<class 'dict'>
+2020-05-24 11:52:35.272 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:52:59.233 | INFO     | logout:info:26 - 123
+2020-05-24 11:52:59.688 | INFO     | logout:info:26 - 123
+2020-05-24 11:53:08.614 | INFO     | logout:info:26 - 123
+2020-05-24 11:53:08.634 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:53:44.773 | INFO     | logout:info:26 - 123
+2020-05-24 11:53:44.781 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:53:44.790 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试1235', 'context': '{"url":"","method":"GET","payload":"","assert":""}'},类型为<class 'dict'>
+2020-05-24 11:53:44.801 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:55:55.753 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:55:55.793 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:55:55.898 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:55:55.910 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:56:16.127 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:56:16.139 | INFO     | logout:info:26 - data{'name': '才认识', 'description': '测试', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:56:16.151 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 11:57:18.292 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:57:18.300 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:58:07.072 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 11:58:07.096 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 11:58:14.635 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 11:58:14.642 | INFO     | logout:info:26 - data{'name': '测试', 'description': '测试123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 11:58:14.651 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 12:01:36.267 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:01:43.074 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:03:04.228 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:03:16.739 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:03:22.489 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:03:31.654 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:03:31.658 | INFO     | logout:info:26 - data{'name': '测试', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-24 12:03:31.666 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:03:31.672 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:03:31.696 | INFO     | logout:info:26 - data{'name': 'ceshi ', 'description': 'qe', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'server_id': '1'},类型为<class 'dict'>
+2020-05-24 12:03:31.763 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 12:03:31.948 | INFO     | logout:info:26 - <==新增接口,判断is_valid，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '参数错误'}}
+2020-05-24 12:04:05.217 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:04:05.259 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:04:47.653 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:04:47.671 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:04:47.781 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:04:47.797 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:04:47.946 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:04:47.962 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:04:51.222 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:04:51.254 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:05:16.203 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:05:16.227 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:05:22.270 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:05:22.295 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:05:31.641 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:05:31.686 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:05:37.058 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:05:37.087 | INFO     | logout:info:26 - data{'name': '测试1123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:05:37.327 | INFO     | logout:info:26 - 入数据库成功
+2020-05-24 12:05:37.334 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:05:51.433 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:05:51.455 | INFO     | logout:info:26 - data{'name': '测试1123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:05:51.591 | INFO     | logout:info:26 - 入数据库成功
+2020-05-24 12:05:51.597 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:08:04.275 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:08:04.283 | INFO     | logout:info:26 - data{'name': '测试1123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:08:29.484 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:08:29.491 | INFO     | logout:info:26 - data{'name': '测试1123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:08:29.584 | INFO     | logout:info:26 - <==新增接口，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '无法新增重复数据'}}
+2020-05-24 12:09:01.492 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:09:05.423 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:09:16.658 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:09:25.537 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:09:25.543 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:09:25.549 | INFO     | logout:info:26 - data{'name': '测试123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:09:25.773 | INFO     | logout:info:26 - 入数据库成功
+2020-05-24 12:09:25.779 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:09:39.537 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:09:39.555 | INFO     | logout:info:26 - data{'name': '测试123', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:09:39.569 | INFO     | logout:info:26 - <==新增接口，返回body:{'data': {}, 'success': False, 'error': {'code': 10000, 'msg': '无法新增重复数据'}}
+2020-05-24 12:09:48.709 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-24 12:09:48.716 | INFO     | logout:info:26 - data{'name': '测试444', 'description': '123', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"', 'service_id': '1'},类型为<class 'dict'>
+2020-05-24 12:09:48.883 | INFO     | logout:info:26 - 入数据库成功
+2020-05-24 12:09:48.890 | INFO     | logout:info:26 - <==，返回body:{'data': {}, 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:09:55.031 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:09:55.085 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:12:32.322 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:12:49.174 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:12:49.220 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:31:09.286 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:31:09.379 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:35:42.506 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 12:35:42.547 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 3, 'name': '测试', 'description': 'desc'}, {'id': 4, 'name': 'update测试-patch', 'description': 'desc'}, {'id': 5, 'name': '测试', 'description': 'desc'}, {'id': 6, 'name': 'test12121', 'description': 'test'}, {'id': 7, 'name': 'test2', 'description': 'test2'}, {'id': 8, 'name': 'admin', 'description': 'admin'}, {'id': 9, 'name': '测试1', 'description': 'desc'}, {'id': 10, 'name': 'test35345435', 'description': 'test4123123123'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:40:09.948 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:40:09.965 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:40:11.795 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 12:40:11.828 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 3, 'name': '测试', 'description': 'desc'}, {'id': 4, 'name': 'update测试-patch', 'description': 'desc'}, {'id': 5, 'name': '测试', 'description': 'desc'}, {'id': 6, 'name': 'test12121', 'description': 'test'}, {'id': 7, 'name': 'test2', 'description': 'test2'}, {'id': 8, 'name': 'admin', 'description': 'admin'}, {'id': 9, 'name': '测试1', 'description': 'desc'}, {'id': 10, 'name': 'test35345435', 'description': 'test4123123123'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:46:41.888 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 12:46:41.909 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 3, 'name': '测试', 'description': 'desc'}, {'id': 4, 'name': 'update测试-patch', 'description': 'desc'}, {'id': 5, 'name': '测试', 'description': 'desc'}, {'id': 6, 'name': 'test12121', 'description': 'test'}, {'id': 7, 'name': 'test2', 'description': 'test2'}, {'id': 8, 'name': 'admin', 'description': 'admin'}, {'id': 9, 'name': '测试1', 'description': 'desc'}, {'id': 10, 'name': 'test35345435', 'description': 'test4123123123'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:46:44.999 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 12:46:45.018 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 1, 'name': 'test', 'description': 'desc', 'service_id': 3, 'context': {}}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:46:47.898 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:46:47.918 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:55:04.533 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:55:04.721 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:55:33.443 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:55:33.475 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:55:37.384 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:55:37.402 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:56:13.930 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:56:13.947 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 12:57:42.013 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 12:57:42.027 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:17:15.944 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:17:15.997 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:17:47.155 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:17:47.169 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:18:12.326 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:18:12.350 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:21:53.305 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:21:53.318 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:23:06.214 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:23:06.227 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:23:10.507 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:23:10.526 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:25:56.528 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:25:56.548 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:30:26.927 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:30:26.944 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:31:22.323 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 13:31:22.348 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 3, 'name': '测试', 'description': 'desc'}, {'id': 4, 'name': 'update测试-patch', 'description': 'desc'}, {'id': 5, 'name': '测试', 'description': 'desc'}, {'id': 6, 'name': 'test12121', 'description': 'test'}, {'id': 7, 'name': 'test2', 'description': 'test2'}, {'id': 8, 'name': 'admin', 'description': 'admin'}, {'id': 9, 'name': '测试1', 'description': 'desc'}, {'id': 10, 'name': 'test35345435', 'description': 'test4123123123'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:31:23.881 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-24 13:31:23.900 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 1, 'name': 'test', 'description': 'desc', 'service_id': 3, 'context': {}}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:31:44.867 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-24 13:31:44.885 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 3, 'name': '测试', 'description': 'desc'}, {'id': 4, 'name': 'update测试-patch', 'description': 'desc'}, {'id': 5, 'name': '测试', 'description': 'desc'}, {'id': 6, 'name': 'test12121', 'description': 'test'}, {'id': 7, 'name': 'test2', 'description': 'test2'}, {'id': 8, 'name': 'admin', 'description': 'admin'}, {'id': 9, 'name': '测试1', 'description': 'desc'}, {'id': 10, 'name': 'test35345435', 'description': 'test4123123123'}], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:31:46.642 | INFO     | logout:info:26 - 获取到的服务ID4
+2020-05-24 13:31:46.658 | INFO     | logout:info:26 - <==，返回body:{'data': [], 'success': True, 'error': {'code': '', 'msg': ''}}
+2020-05-24 13:31:58.144 | INFO     | logout:info:26 - 获取到的服务ID1
+2020-05-24 13:31:58.167 | INFO     | logout:info:26 - <==，返回body:{'data': [{'id': 2, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 3, 'name': '测试1123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 4, 'name': '测试123', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}, {'id': 5, 'name': '测试444', 'description': '123', 'service_id': 1, 'context': '{"url":"","method":"GET","payload":"","assert":""}'}], 'success': True, 'error': {'code': '', 'msg': ''}}

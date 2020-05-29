@@ -1,0 +1,118 @@
+2020-05-10 10:06:08.627 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 15:57:00.299 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为123
+2020-05-10 15:57:24.919 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 15:58:43.901 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 15:59:51.880 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 15:59:52.033 | INFO     | logout:info:26 - 入参<tr><th><label for="id_task_id">Task id:</label></th><td><input type="number" name="task_id" value="1" required id="id_task_id"></td></tr>
+<tr><th><label for="id_interface_id">Interface id:</label></th><td><ul class="errorlist"><li>This field is required.</li></ul><input type="number" name="interface_id" required id="id_interface_id"></td></tr>
+2020-05-10 16:00:49.395 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:00:49.408 | INFO     | logout:info:26 - 入参<tr><th><label for="id_task_id">Task id:</label></th><td><input type="number" name="task_id" value="1" required id="id_task_id"></td></tr>
+<tr><th><label for="id_interface_id">Interface id:</label></th><td><ul class="errorlist"><li>This field is required.</li></ul><input type="number" name="interface_id" required id="id_interface_id"></td></tr>
+2020-05-10 16:01:40.085 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:01:40.100 | INFO     | logout:info:26 - 入参<tr><th><label for="id_task_id">Task id:</label></th><td><input type="number" name="task_id" value="1" required id="id_task_id"></td></tr>
+<tr><th><label for="id_interface_id">Interface id:</label></th><td><input type="number" name="interface_id" value="1" required id="id_interface_id"></td></tr>
+2020-05-10 16:03:34.284 | INFO     | logout:info:26 - 根据任务ID0,获取接口：<QuerySet []>
+2020-05-10 16:04:09.229 | INFO     | logout:info:26 - 根据任务ID1,获取接口：<QuerySet [<TaskInterface: TaskInterface object (1)>]>
+2020-05-10 16:04:14.855 | INFO     | logout:info:26 - 根据任务ID2,获取接口：<QuerySet []>
+2020-05-10 16:20:17.484 | INFO     | logout:info:26 - 拿到GET数据，判断获取的数据类型为<QueryDict: {'task_id': ['1']}>
+2020-05-10 16:35:26.663 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 16:35:31.023 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 16:51:35.192 | INFO     | logout:info:26 - 123
+2020-05-10 16:51:35.222 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:51:43.193 | INFO     | logout:info:26 - 123
+2020-05-10 16:51:43.223 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:52:16.816 | INFO     | logout:info:26 - 123
+2020-05-10 16:52:16.820 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:54:02.538 | INFO     | logout:info:26 - 123
+2020-05-10 16:54:02.543 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:54:02.549 | INFO     | logout:info:26 - 获取传入的context值{"url":"http://www.baidu.com","method":"GET","payload":"","assert":"测试"},类型为<class 'str'>
+2020-05-10 16:55:38.218 | INFO     | logout:info:26 - 123
+2020-05-10 16:55:38.223 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:55:38.231 | INFO     | logout:info:26 - 获取传入的context值{"url":"http://www.baidu.com","method":"GET","payload":"","assert":"测试"},类型为<class 'str'>
+2020-05-10 16:55:38.317 | INFO     | logout:info:26 - 入参<tr><th><label for="id_name">Name:</label></th><td><input type="text" name="name" value="测试" maxlength="200" minlength="1" required id="id_name"></td></tr>
+<tr><th><label for="id_description">Description:</label></th><td><input type="text" name="description" value="123213" maxlength="2000" minlength="1" required id="id_description"></td></tr>
+<tr><th><label for="id_service_id">Service id:</label></th><td><ul class="errorlist"><li>This field is required.</li></ul><input type="number" name="service_id" required id="id_service_id"></td></tr>
+<tr><th><label for="id_context">Context:</label></th><td><input type="text" name="context" value="&quot;{\&quot;url\&quot;:\&quot;http://www.baidu.com\&quot;,\&quot;method\&quot;:\&quot;GET\&quot;,\&quot;payload\&quot;:\&quot;\&quot;,\&quot;assert\&quot;:\&quot;\u6d4b\u8bd5\&quot;}&quot;" maxlength="5000" minlength="2" required id="id_context"></td></tr>
+2020-05-10 16:58:23.378 | INFO     | logout:info:26 - 123
+2020-05-10 16:58:23.457 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 16:58:24.148 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 17:01:17.528 | INFO     | logout:info:26 - 123
+2020-05-10 17:01:17.534 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:01:17.540 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 17:01:17.545 | INFO     | logout:info:26 - data{'name': '测试123', 'description': '12213', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-10 17:22:08.395 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:41.623 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:46.232 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:48.825 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:51.183 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:54.122 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:35:57.710 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:00.043 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:04.787 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:08.230 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:11.208 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:14.487 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:20.391 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:23.269 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:25.654 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:36:28.409 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:43:33.219 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:43:45.251 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:43:59.778 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:50:16.816 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:50:33.931 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:50:42.342 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:53:55.819 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:02.626 | INFO     | logout:info:26 - 123
+2020-05-10 17:55:02.664 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:55:02.690 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 17:55:02.698 | INFO     | logout:info:26 - data{'name': '', 'description': '', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-10 17:55:04.871 | INFO     | logout:info:26 - 123
+2020-05-10 17:55:04.937 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:55:04.943 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 17:55:04.950 | INFO     | logout:info:26 - data{'name': '', 'description': '', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-10 17:55:06.205 | INFO     | logout:info:26 - 123
+2020-05-10 17:55:06.210 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:55:06.215 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 17:55:06.220 | INFO     | logout:info:26 - data{'name': '', 'description': '', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-10 17:55:09.498 | INFO     | logout:info:26 - 123
+2020-05-10 17:55:09.506 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:55:09.511 | INFO     | logout:info:26 - 获取传入的context值,类型为<class 'str'>
+2020-05-10 17:55:09.516 | INFO     | logout:info:26 - data{'name': '', 'description': '', 'context': '""'},类型为<class 'dict'>
+2020-05-10 17:55:13.637 | INFO     | logout:info:26 - 123
+2020-05-10 17:55:13.644 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 17:55:13.652 | INFO     | logout:info:26 - 获取传入的context值,类型为<class 'str'>
+2020-05-10 17:55:13.708 | INFO     | logout:info:26 - data{'name': '去3', 'description': '123123', 'context': '""'},类型为<class 'dict'>
+2020-05-10 17:55:29.242 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:30.083 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:32.135 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:33.393 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:35.405 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:35.740 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:36.408 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:37.723 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:39.025 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:47.651 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:49.080 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:50.431 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 17:55:58.667 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:07:45.971 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:07:54.661 | INFO     | logout:info:26 - 123
+2020-05-10 18:07:54.668 | INFO     | logout:info:26 - 拿到body数据，判断body数据类型为<class 'bytes'>
+2020-05-10 18:07:54.673 | INFO     | logout:info:26 - 获取传入的context值{"url":"","method":"GET","payload":"","assert":""},类型为<class 'str'>
+2020-05-10 18:07:54.692 | INFO     | logout:info:26 - data{'name': '测试1', 'description': '123213', 'context': '"{\\"url\\":\\"\\",\\"method\\":\\"GET\\",\\"payload\\":\\"\\",\\"assert\\":\\"\\"}"'},类型为<class 'dict'>
+2020-05-10 18:47:14.249 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:52:25.495 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:52:28.142 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:52:31.807 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:52:36.921 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:53:50.584 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:54:05.128 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:58:42.216 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:58:43.507 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-10 18:58:52.023 | INFO     | logout:info:26 - 获取到的服务ID0
+2020-05-10 18:58:59.544 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 18:59:02.302 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-10 19:01:44.601 | INFO     | logout:info:26 - 进入了获取数据接口
+2020-05-10 19:01:46.537 | INFO     | logout:info:26 - 获取到的服务ID3
+2020-05-10 19:03:57.737 | INFO     | logout:info:26 - 获取到的服务ID3
